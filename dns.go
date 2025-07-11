@@ -14,7 +14,7 @@ import (
 )
 
 type Client struct {
-	nameServer string
+	nameServer string //google dns
 	poolNum    int
 	cacheTime  int64
 	dnsConn    net.PacketConn
