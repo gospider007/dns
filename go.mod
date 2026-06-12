@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/gospider007/tools v0.0.0-20260609090137-30f283111f0f
-	golang.org/x/net v0.55.0
+	golang.org/x/net v0.56.0
 )
 
 require (
