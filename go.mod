@@ -3,7 +3,7 @@ module github.com/gospider007/dns
 go 1.26.0
 
 require (
-	github.com/gospider007/tools v0.0.0-20260708150649-46c42ee5f3f7
+	github.com/gospider007/tools v0.0.0-20260709025734-e176d9ab209e
 	golang.org/x/net v0.57.0
 )
 
